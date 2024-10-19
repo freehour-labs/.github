@@ -1,2 +1,2 @@
 # .github
-Public Repo for FreeHour Labs
+Intiial Public Repo ReadME for FreeHour Labs
